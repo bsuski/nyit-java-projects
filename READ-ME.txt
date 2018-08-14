@@ -1,0 +1,12 @@
+Welcome to an array of my college projects. Please remember:
+
+- These projects are uncut, unedited since their creation.
+- Some projects lack GUIs consequently, and serve merely as an example.
+- Credit is given to other authors in some of these projects such as Professor Wei, and for that reason, please do not reuse code without contacting me. 
+- These files are for learning purposes. 
+- These programs were created under NYIT's cirriculum.
+
+Please email me at bsuski@nyit.edu for any comments or concerns. Thank you.
+
+Sincerely,
+Bridget
